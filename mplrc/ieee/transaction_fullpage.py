@@ -42,7 +42,7 @@ params ={\
     
     'figure.dpi':150,
     
-    'text.fontsize': 12,
+    'font.text': 12,
     'legend.fontsize': 10,
     'xtick.labelsize': 10,
     'ytick.labelsize': 10,
